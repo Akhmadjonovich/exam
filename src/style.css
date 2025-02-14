@@ -46,6 +46,7 @@ ul , ol{
     margin-left: 220px;
     transition: .4s;
     cursor: pointer;
+    box-shadow: 0 0 10px 0 rgb(249, 192, 93);
 }
 .nav-btn:hover{
     background-color: transparent;
@@ -98,6 +99,7 @@ h1{
     line-height: 52px;
     transition: .4s;
     cursor: pointer;
+    box-shadow: 0 0 10px 0 rgb(249, 192, 93);
 }
 .about-btn:hover{
     background-color: #F95316;
@@ -117,6 +119,7 @@ h1{
     line-height: 52px;
     transition: .4s;
     cursor: pointer;
+    box-shadow: 0 0 10px 0 rgb(249, 192, 93);
 }
 .explore-btn:hover{
     background-color: transparent;
